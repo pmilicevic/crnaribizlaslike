@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>1</id>
+      <name>zadatakcrnaribizla</name>
+      <size>19</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2019-07-11 14:58:53.021418+03:00</created>
+      <updated>2019-07-11 17:00:46.246559+03:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <labels>
+        <label>
+          <name>crnaribizla</name>
+          <attributes>
+            <attribute>
+              <name>zrelost</name>
+              <mutable>False</mutable>
+              <input_type>radio</input_type>
+              <default_value>100</default_value>
+              <values>100
+90
+80
+70
+60
+50</values>
+            </attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>1</id>
+          <start>0</start>
+          <stop>18</stop>
+          <url>http://localhost:8080/?id=1</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>django</username>
+        <email>predragmilicevic@gmail.com</email>
+      </owner>
+    </task>
+    <dumped>2019-07-11 17:02:30.327421+03:00</dumped>
+  </meta>
+  <image id="0" name="10320467_241252439415200_359869009675649056_n.jpg" width="400" height="376">
+    <box label="crnaribizla" occluded="0" xtl="134.14" ytl="163.24" xbr="178.05" ybr="206.63">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="216.75" ytl="168.45" xbr="252.35" ybr="210.25">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="273.45" ytl="198.84" xbr="308.59" ybr="239.66">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="42.86" ytl="165.87" xbr="82.59" ybr="204.57">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="203.19" ytl="256.76" xbr="244.23" ybr="304.39">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="272.45" ytl="245.92" xbr="308.78" ybr="282.72">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+  <image id="1" name="1393478_769214529794543_3518197079225662370_n.jpg" width="480" height="480">
+    <box label="crnaribizla" occluded="0" xtl="208.98" ytl="213.61" xbr="244.82" ybr="252.66">
+      <attribute name="zrelost">70</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="225.47" ytl="78.52" xbr="268.46" ybr="123.31">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="87.16" ytl="91.42" xbr="131.59" ybr="135.14">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="361.27" ytl="147.32" xbr="408.93" ybr="194.62">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="70.67" ytl="228.98" xbr="106.15" ybr="264.85">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="196.08" ytl="134.78" xbr="239.80" ybr="178.13">
+      <attribute name="zrelost">90</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="329.74" ytl="100.38" xbr="374.89" ybr="143.02">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="53.47" ytl="174.55" xbr="95.40" ybr="212.89">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="121.20" ytl="151.22" xbr="160.96" ybr="190.68">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+  <image id="2" name="14448.jpg" width="640" height="480">
+    <box label="crnaribizla" occluded="0" xtl="296.44" ytl="70.39" xbr="369.22" ybr="153.40">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="535.83" ytl="129.34" xbr="639.90" ybr="243.62">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="451.56" ytl="277.25" xbr="553.88" ybr="403.62">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="356.59" ytl="333.85" xbr="445.01" ybr="426.48">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="512.32" ytl="228.53" xbr="617.64" ybr="317.01">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+  <image id="3" name="15781647_586247688249005_6854335868831843246_n.jpg" width="275" height="183">
+    <box label="crnaribizla" occluded="0" xtl="43.44" ytl="51.38" xbr="114.53" ybr="121.09">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="85.41" ytl="10.79" xbr="145.49" ybr="72.25">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="7.21" ytl="17.21" xbr="74.40" ybr="83.48">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+  <image id="4" name="crna_ribizla_titania.jpg" width="178" height="200">
+    <box label="crnaribizla" occluded="0" xtl="102.99" ytl="85.22" xbr="133.81" ybr="116.04">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="55.87" ytl="54.89" xbr="89.45" ybr="90.73">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="119.03" ytl="27.07" xbr="151.61" ybr="61.16">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="36.82" ytl="104.49" xbr="73.91" ybr="145.12">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="85.95" ytl="12.03" xbr="116.77" ybr="43.11">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+  <image id="5" name="images (1).jpeg" width="259" height="194">
+    <box label="crnaribizla" occluded="0" xtl="153.27" ytl="101.85" xbr="176.14" ybr="127.64">
+      <attribute name="zrelost">60</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="88.14" ytl="103.09" xbr="104.43" ybr="120.59">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="36.60" ytl="89.23" xbr="63.34" ybr="118.16">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="47.76" ytl="57.60" xbr="74.04" ybr="83.40">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="195.32" ytl="32.81" xbr="220.87" ybr="56.66">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="137.49" ytl="38.67" xbr="159.86" ybr="63.71">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="95.41" ytl="128.83" xbr="119.74" ybr="150.25">
+      <attribute name="zrelost">50</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="209.45" ytl="124.00" xbr="240.32" ybr="153.90">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="44.14" ytl="140.04" xbr="76.23" ybr="164.35">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="88.14" ytl="41.83" xbr="109.77" ybr="64.44">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="186.11" ytl="77.32" xbr="208.48" ybr="99.20">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="230.84" ytl="97.25" xbr="254.42" ybr="124.73">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="124.36" ytl="69.05" xbr="145.27" ybr="91.91">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="31.25" ytl="36.72" xbr="56.78" ybr="68.32">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="133.36" ytl="130.07" xbr="149.40" ybr="145.88">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="7.43" ytl="58.84" xbr="27.36" ybr="78.05">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="60.91" ytl="38.42" xbr="84.25" ybr="61.27">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="104.18" ytl="83.88" xbr="129.22" ybr="103.09">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="56.78" ytl="78.29" xbr="85.46" ybr="100.66">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="10.59" ytl="81.94" xbr="39.27" ybr="109.17">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="145.03" ytl="81.94" xbr="171.77" ybr="102.85">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="22.99" ytl="5.12" xbr="47.78" ybr="27.48">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="159.13" ytl="35.51" xbr="178.33" ybr="56.66">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="177.84" ytl="95.07" xbr="200.94" ybr="121.57">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="218.18" ytl="28.67" xbr="238.38" ybr="49.36">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+  <image id="6" name="images (2).jpeg" width="250" height="159">
+    <box label="crnaribizla" occluded="0" xtl="121.37" ytl="62.77" xbr="157.43" ybr="104.81">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="149.27" ytl="114.18" xbr="184.53" ybr="151.24">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="186.33" ytl="113.78" xbr="219.20" ybr="146.85">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="91.08" ytl="102.82" xbr="124.76" ybr="137.89">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="153.65" ytl="79.31" xbr="192.70" ybr="117.76">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+  <image id="7" name="images (3).jpeg" width="200" height="145">
+    <box label="crnaribizla" occluded="0" xtl="142.30" ytl="71.78" xbr="183.91" ybr="113.21">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="114.86" ytl="35.60" xbr="150.47" ybr="73.96">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="80.52" ytl="60.88" xbr="123.40" ybr="106.48">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="41.09" ytl="45.07" xbr="78.52" ybr="90.86">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="12.20" ytl="24.17" xbr="59.08" ybr="69.42">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="65.46" ytl="25.99" xbr="104.88" ybr="64.33">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="115.22" ytl="95.94" xbr="151.76" ybr="130.65">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+  <image id="8" name="images (4).jpeg" width="120" height="120">
+    <box label="crnaribizla" occluded="0" xtl="35.31" ytl="77.29" xbr="65.38" ybr="109.02">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="52.75" ytl="38.20" xbr="78.47" ybr="67.07">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="12.45" ytl="96.09" xbr="37.26" ybr="119.70">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="73.50" ytl="30.98" xbr="97.71" ybr="57.59">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="45.38" ytl="13.68" xbr="72.00" ybr="36.69">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="18.62" ytl="32.63" xbr="49.29" ybr="58.05">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="0.00" ytl="78.95" xbr="29.90" ybr="102.86">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+  <image id="9" name="images (5).jpeg" width="270" height="186">
+    <box label="crnaribizla" occluded="0" xtl="111.42" ytl="123.07" xbr="135.66" ybr="145.68">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="44.06" ytl="109.09" xbr="75.29" ybr="139.16">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="217.47" ytl="120.28" xbr="245.67" ybr="148.25">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="69.46" ytl="147.78" xbr="99.53" ybr="177.61">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="144.52" ytl="108.62" xbr="163.16" ybr="124.47">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="80.19" ytl="60.61" xbr="104.43" ybr="88.34">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="16.09" ytl="65.04" xbr="34.04" ybr="84.15">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="213.95" ytl="77.85" xbr="230.29" ybr="94.17">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="147.06" ytl="50.58" xbr="162.00" ybr="66.20">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="204.42" ytl="41.73" xbr="217.70" ybr="53.15">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="144.52" ytl="146.15" xbr="177.85" ybr="178.08">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="101.63" ytl="47.55" xbr="120.97" ybr="65.74">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="16.55" ytl="98.60" xbr="41.26" ybr="120.98">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="189.27" ytl="117.01" xbr="219.80" ybr="148.48">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="144.28" ytl="123.77" xbr="174.35" ybr="148.94">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+  <image id="10" name="images (6).jpeg" width="269" height="188">
+    <box label="crnaribizla" occluded="0" xtl="89.94" ytl="96.13" xbr="122.21" ybr="129.12">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="51.30" ytl="94.01" xbr="90.17" ybr="131.94">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="67.79" ytl="127.94" xbr="101.95" ybr="161.86">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="102.66" ytl="119.69" xbr="139.18" ybr="159.74">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="29.63" ytl="123.70" xbr="65.44" ybr="159.51">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+  <image id="11" name="images (7).jpeg" width="259" height="194">
+    <box label="crnaribizla" occluded="0" xtl="235.44" ytl="106.23" xbr="253.21" ybr="124.00">
+      <attribute name="zrelost">50</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="90.06" ytl="117.41" xbr="102.00" ybr="130.56">
+      <attribute name="zrelost">60</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="98.57" ytl="107.44" xbr="112.94" ybr="122.54">
+      <attribute name="zrelost">70</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="173.96" ytl="122.78" xbr="187.81" ybr="135.91">
+      <attribute name="zrelost">60</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="103.19" ytl="79.24" xbr="116.58" ybr="91.91">
+      <attribute name="zrelost">50</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="217.20" ytl="105.98" xbr="236.92" ybr="124.48">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="174.44" ytl="106.01" xbr="189.27" ybr="120.84">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="159.83" ytl="103.07" xbr="175.66" ybr="116.95">
+      <attribute name="zrelost">50</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="23.71" ytl="82.18" xbr="31.98" ybr="88.75">
+      <attribute name="zrelost">50</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="172.23" ytl="89.45" xbr="188.78" ybr="104.55">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="140.65" ytl="126.91" xbr="153.29" ybr="139.07">
+      <attribute name="zrelost">70</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="78.17" ytl="112.33" xbr="90.57" ybr="124.73">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="230.09" ytl="75.84" xbr="251.02" ybr="99.20">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="146.24" ytl="70.27" xbr="167.39" ybr="88.50">
+      <attribute name="zrelost">90</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="150.11" ytl="130.29" xbr="162.77" ybr="143.69">
+      <attribute name="zrelost">50</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="89.09" ytl="107.44" xbr="99.08" ybr="117.92">
+      <attribute name="zrelost">50</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="200.43" ytl="105.01" xbr="214.80" ybr="117.43">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="32.44" ytl="98.69" xbr="42.92" ybr="110.38">
+      <attribute name="zrelost">80</attribute>
+    </box>
+  </image>
+  <image id="12" name="images (8).jpeg" width="276" height="182">
+    <box label="crnaribizla" occluded="0" xtl="126.78" ytl="110.84" xbr="167.84" ybr="148.47">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="106.71" ytl="67.51" xbr="145.48" ybr="108.56">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="75.69" ytl="91.00" xbr="110.59" ybr="128.40">
+      <attribute name="zrelost">80</attribute>
+    </box>
+  </image>
+  <image id="13" name="images.jpeg" width="225" height="225">
+    <box label="crnaribizla" occluded="0" xtl="146.55" ytl="129.41" xbr="189.44" ybr="168.32">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="99.78" ytl="54.41" xbr="138.97" ybr="89.94">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="60.02" ytl="82.04" xbr="100.34" ybr="119.01">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="142.92" ytl="60.05" xbr="180.70" ybr="95.01">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="61.99" ytl="161.55" xbr="94.42" ybr="196.23">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="10.68" ytl="130.82" xbr="49.02" ybr="174.52">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="181.54" ytl="117.00" xbr="220.17" ybr="155.35">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+  <image id="14" name="titania_velika.jpg" width="331" height="400">
+    <box label="crnaribizla" occluded="0" xtl="159.40" ytl="153.39" xbr="186.47" ybr="178.95">
+      <attribute name="zrelost">60</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="228.58" ytl="94.74" xbr="252.14" ybr="117.80">
+      <attribute name="zrelost">70</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="179.95" ytl="129.83" xbr="209.53" ybr="156.90">
+      <attribute name="zrelost">70</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="107.72" ytl="261.16" xbr="138.85" ybr="304.27">
+      <attribute name="zrelost">70</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="147.32" ytl="182.96" xbr="176.45" ybr="215.54">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="188.93" ytl="24.57" xbr="223.06" ybr="57.65">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="195.49" ytl="187.47" xbr="229.58" ybr="217.05">
+      <attribute name="zrelost">90</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="136.85" ytl="251.63" xbr="171.43" ybr="284.22">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="53.64" ytl="257.65" xbr="86.72" ybr="294.74">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="127.77" ytl="155.89" xbr="158.90" ybr="185.97">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="81.21" ytl="173.94" xbr="116.30" ybr="211.53">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="36.09" ytl="354.39" xbr="72.69" ybr="390.98">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="255.14" ytl="42.61" xbr="282.71" ybr="69.18">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="101.26" ytl="312.29" xbr="134.84" ybr="343.36">
+      <attribute name="zrelost">90</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="170.93" ytl="53.64" xbr="201.01" ybr="92.24">
+      <attribute name="zrelost">80</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="68.63" ytl="210.53" xbr="101.76" ybr="245.12">
+      <attribute name="zrelost">90</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="255.64" ytl="72.19" xbr="290.73" ybr="107.27">
+      <attribute name="zrelost">90</attribute>
+    </box>
+  </image>
+  <image id="15" name="преузимање (1).jpeg" width="225" height="225">
+    <box label="crnaribizla" occluded="0" xtl="77.78" ytl="72.17" xbr="122.87" ybr="124.62">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="145.45" ytl="125.46" xbr="188.59" ybr="174.80">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="138.40" ytl="58.36" xbr="188.03" ybr="106.85">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="82.27" ytl="123.77" xbr="126.56" ybr="174.24">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="31.83" ytl="109.39" xbr="81.17" ybr="165.78">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+  <image id="16" name="преузимање (2).jpeg" width="225" height="225">
+    <box label="crnaribizla" occluded="0" xtl="116.41" ytl="130.25" xbr="164.06" ybr="178.19">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="180.70" ytl="69.35" xbr="221.30" ybr="111.65">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="77.22" ytl="97.55" xbr="129.95" ybr="143.79">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="45.89" ytl="84.01" xbr="84.55" ybr="124.90">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="71.55" ytl="141.53" xbr="115.85" ybr="185.24">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="20.26" ytl="107.42" xbr="59.46" ybr="152.25">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="137.56" ytl="78.38" xbr="178.72" ybr="122.92">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="149.65" ytl="115.88" xbr="198.46" ybr="162.40">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+  <image id="18" name="преузимање.jpeg" width="289" height="174">
+    <box label="crnaribizla" occluded="0" xtl="157.32" ytl="118.40" xbr="183.49" ybr="152.41">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="156.23" ytl="53.86" xbr="187.41" ybr="82.20">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="184.14" ytl="71.30" xbr="211.83" ybr="103.35">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="188.50" ytl="32.27" xbr="216.19" ybr="63.45">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="227.31" ytl="90.93" xbr="262.42" ybr="123.20">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="252.61" ytl="81.55" xbr="285.10" ybr="113.38">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="222.30" ytl="35.76" xbr="253.70" ybr="65.63">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="115.67" ytl="93.32" xbr="147.51" ybr="127.77">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="93.65" ytl="130.17" xbr="123.09" ybr="162.66">
+      <attribute name="zrelost">100</attribute>
+    </box>
+    <box label="crnaribizla" occluded="0" xtl="147.51" ytl="92.02" xbr="180.87" ybr="127.12">
+      <attribute name="zrelost">100</attribute>
+    </box>
+  </image>
+</annotations>
